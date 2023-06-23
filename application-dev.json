@@ -1,0 +1,18 @@
+{
+  "updatedAt": "2023-06-16T07:59:55.654Z",
+  "config": {
+    "nativeAuthenticationSettings": [
+      {
+        "name": "Space bank",
+        "certificateHashes": {
+          "online.space.ru": "e807f1fcf82d132f9bb018ca6738a19f"
+        },
+        "authenticationHosts": [
+          "spacebank.ru ",
+          "cosmos.ru "
+        ]
+      }
+    ],
+    "signature": "117c7d33d73982086e0477d6a8030765"
+  }
+}
