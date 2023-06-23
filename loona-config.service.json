@@ -3,7 +3,7 @@
   "config": {
     "nativeAuthenticationSettings": [
       {
-        "name": "Loona bank",
+        "name": "Looona bank",
         "certificateHashes": {
           "online.space.ru": "e807f1fcf82d132f9bb018ca6738a19f"
         },
