@@ -1,0 +1,32 @@
+[
+  {
+    "title": "test_story",
+    "duration": "1000",
+    "storyPreview": {
+      "backgroundImageName": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "fileId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+    },
+    "slides": [
+      {
+        "title": "test_story_slide",
+        "description": "LOONA",
+        "fileId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+      }
+    ]
+  },
+  {
+    "title": "demonstrate_story",
+    "duration": "2000",
+    "storyPreview": {
+      "backgroundImageName": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "fileId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+    },
+    "slides": [
+      {
+        "title": "demonstrate_story",
+        "description": "loona_demonstrate",
+        "fileId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+      }
+    ]
+  }
+]
