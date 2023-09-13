@@ -549,4 +549,3 @@ $||media-imdb.com/images*/facebook-$domain=imdb.com
 §||www.google.*/search?$removeparam=gs_ssp
 §||www.google.*/search?$removeparam=hl
 §||www.google.*/search?$removeparam=ie
-§||www.google.*/search?$removeparam=iflsig
