@@ -563,4 +563,3 @@ $||media-imdb.com/images*/facebook-$domain=imdb.com
 §||yandex.*/news*?from=main$document,removeparam=|,domain=yandex.*
 §||yandex.*/news*msid$document,removeparam=|,domain=yandex.*
 §||yandex.*/search/$document,removeparam=msid,domain=yandex.*
-§||yandex.*/search/$document,removeparam=search_source,domain=yandex.*
