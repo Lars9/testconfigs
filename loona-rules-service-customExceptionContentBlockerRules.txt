@@ -559,4 +559,3 @@ $||media-imdb.com/images*/facebook-$domain=imdb.com
 §||www.google.*/search?$removeparam=uact
 §||www.google.*/search?$removeparam=ved
 §||www.google.*/search?client=$removeparam=client
-§||yandex.*/images/search?text=*&from=$document,removeparam=|from,domain=yandex.*
