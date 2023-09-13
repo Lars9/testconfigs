@@ -554,4 +554,3 @@ $||media-imdb.com/images*/facebook-$domain=imdb.com
 §||www.google.*/search?$removeparam=oq
 §||www.google.*/search?$removeparam=sa
 §||www.google.*/search?$removeparam=sclient
-§||www.google.*/search?$removeparam=source
