@@ -1,0 +1,94 @@
+[
+  {
+    "id": "d9c4ee2b-5cd8-43e9-90c4-e871427a93ff",
+    "publishAfter": "2023-10-07T00:00:00.000Z",
+    "validTo": 30,
+    "validToIfViewed": 2,
+    "storyIndex": 7,
+    "analyticsTitle": "Триллеры бесплатно",
+    "backgroundColor": "#7E8EA8",
+    "preview": {
+      "backgroundImageName": "c8b1f68f-a6e7-41c0-968a-e964ac2721b7",
+      "titleColor": "#FFFFFF",
+      "title": "Триллеры бесплатно"
+    },
+    "slides": [
+      {
+        "id": "eb7e6823-aa2e-4b66-b060-56bb90ee1281",
+        "type": "img",
+        "title": "Захватывающие триллеры – смотреть бесплатно",
+        "analyticsTitle": "Захватывающие триллеры – смотреть бесплатно",
+        "text": "Выбирайте захватывающий триллер из нашей подборки, устраивайтесь поудобнее и наслаждайтесь просмотром на Иви",
+        "duration": 10,
+        "imageId": "fd87416b-cc89-405f-b75e-0e796455113c",
+        "layout": {
+          "colors": {
+            "titleColor": "#FFFFFF",
+            "textColor": "#FFFFFF"
+          },
+          "textPosition": "bottom"
+        }
+      },
+      {
+        "id": "c4fb5d4b-8a29-4ce9-baaa-fbe89f629502",
+        "type": "img",
+        "title": "Иллюзия контроля (2021)",
+        "analyticsTitle": "Иллюзия контроля (2021)",
+        "text": "Виктор освоил исскуство мошенничества и манипуляций в раннем возрасте и его судьба складывалась вполне успешно, пока он не узнал, что вся его жизнь с самого детства была кем-то тщательно спланирована",
+        "buttonTitle": "Смотреть онлайн",
+        "duration": 10,
+        "link": "https://www.ivi.ru/watch/484386",
+        "imageId": "cea8bbbb-7028-4957-ae7a-16ea976db55f",
+        "layout": {
+          "colors": {
+            "titleColor": "#FFFFFF",
+            "textColor": "#FFFFFF",
+            "buttonBackgroundColor": "#FFFFFF",
+            "buttonTextColor": "#000000"
+          },
+          "textPosition": "bottom"
+        }
+      },
+      {
+        "id": "52f98dc6-8a88-48ca-aa6d-4c789fdbee16",
+        "type": "img",
+        "title": "Воспоминания из будущего (2021)",
+        "analyticsTitle": "Воспоминания из будущего (2021)",
+        "text": "Молодая женщина, потерявшая память из-за травмы, начинает подозревать, что ее муж скрывает правду о ее собственном прошлом",
+        "buttonTitle": "Смотреть онлайн",
+        "duration": 10,
+        "link": "https://www.ivi.ru/watch/488090",
+        "imageId": "de82d11c-d3f6-4de5-8b3b-b6bc7d0c753d",
+        "layout": {
+          "colors": {
+            "titleColor": "#FFFFFF",
+            "textColor": "#FFFFFF",
+            "buttonBackgroundColor": "#FFFFFF",
+            "buttonTextColor": "#000000"
+          },
+          "textPosition": "bottom"
+        }
+      },
+      {
+        "id": "eb56f387-e55e-48be-891f-4bdc62613ed6",
+        "type": "img",
+        "title": "Массовый побег (2020)",
+        "analyticsTitle": "Массовый побег (2020)",
+        "text": "Реальная история невероятного тюремного побега полсотни чилийских политзаключенных в 1990 году",
+        "buttonTitle": "Смотреть онлайн",
+        "duration": 10,
+        "link": "https://www.ivi.ru/watch/484828",
+        "imageId": "1bbb6445-e5e6-44ff-adad-b144522ff414",
+        "layout": {
+          "colors": {
+            "titleColor": "#FFFFFF",
+            "textColor": "#FFFFFF",
+            "buttonBackgroundColor": "#FFFFFF",
+            "buttonTextColor": "#000000"
+          },
+          "textPosition": "bottom"
+        }
+      }
+    ]
+  }
+]
