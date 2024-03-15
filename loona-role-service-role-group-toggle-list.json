@@ -1,0 +1,18 @@
+[
+  {
+    "roleCode": "full-profile",
+    "featureToggle": "loona-config-service-ft-1.json"
+  },
+  {
+    "roleCode": "recommendation",
+    "featureToggle": "loona-config-service-ft-2.json"
+  },
+  {
+    "roleCode": "zero",
+    "featureToggle": "loona-config-service-ft-4.json"
+  },
+  {
+    "roleCode": "loyalty",
+    "featureToggle": "loona-config-service-ft-3.json"
+  }
+]

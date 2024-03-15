@@ -1,0 +1,18 @@
+[
+  {
+    "roleCode": "full-profile",
+    "priority": 200
+  },
+  {
+    "roleCode": "recommendation",
+    "priority": 100
+  },
+  {
+    "roleCode": "loyalty",
+    "priority": 300
+  },
+  {
+    "roleCode": "zero",
+    "priority": 900
+  }
+]
